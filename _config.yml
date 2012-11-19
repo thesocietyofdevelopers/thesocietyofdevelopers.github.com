@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://thesocietyofdevelopers.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+url: http://thesocietyofdevelopers.com
+title: The Society of Developers
+subtitle: Subtitle.
 author: Your Name
 simple_search: http://google.com/search
 description:
