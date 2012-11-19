@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://thesocietyofdevelopers.github.com/atom.xml" rel="self"/>
-  <link href="http://thesocietyofdevelopers.github.com/"/>
-  <updated>2012-11-18T21:53:16-05:00</updated>
-  <id>http://thesocietyofdevelopers.github.com/</id>
+  <title><![CDATA[The Society of Developers]]></title>
+  <link href="http://thesocietyofdevelopers.com/atom.xml" rel="self"/>
+  <link href="http://thesocietyofdevelopers.com/"/>
+  <updated>2012-11-18T21:54:50-05:00</updated>
+  <id>http://thesocietyofdevelopers.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Soon]]></title>
-    <link href="http://thesocietyofdevelopers.github.com/blog/2012/11/18/soon/"/>
+    <link href="http://thesocietyofdevelopers.com/blog/2012/11/18/soon/"/>
     <updated>2012-11-18T21:52:00-05:00</updated>
-    <id>http://thesocietyofdevelopers.github.com/blog/2012/11/18/soon</id>
+    <id>http://thesocietyofdevelopers.com/blog/2012/11/18/soon</id>
     <content type="html"><![CDATA[<p>Very soon</p>
 ]]></content>
   </entry>
